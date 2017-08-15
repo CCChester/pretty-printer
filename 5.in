@@ -1,0 +1,8 @@
+int fun
+    (int x)
+    {
+//
+This is my function
+           int y = 2; 
+    y = y+1 ; 
+}
